@@ -2,19 +2,21 @@
 ```1.hafta -1.ödev```
 
 # Homework 
+
 ```javascript
-let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]“` 
-` let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]“` 
-` let arr3 = [
+ let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
+ let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
+ let arr3 = [
     { name: 'ali', id: 221 },
     { name: 'veli', id: 343 },
     { name: 'konya', id: 333 },
     { name: 'ali', id: 664 },
     { name: 'selim', id: 112 }
 ]
-let arr4 = [1, 1, 1, 4, 5, 5, 3, 2]```
+let arr4 = [1, 1, 1, 4, 5, 5, 3, 2] 
 
-1- arr1 başına 'a' elemanını ekleyiniz
+
+/*1- arr1 başına 'a' elemanını ekleyiniz
 2- arr1 sonuna 6 elemanını ekleyiniz
 3- arr1 sonundaki elemanı siliniz
 4- arr1 başındaki elemanı siliniz
@@ -28,7 +30,7 @@ let arr4 = [1, 1, 1, 4, 5, 5, 3, 2]```
 12- arr3 içindeki user değerleri ali olan elemanları bulunuz
 13- arr3 içindeki elemanlarının id değerlerinin toplamlarını bulan bir reduce fonsiyonu yazınız
 
-> her sorunun cevabını console.log ile yazıdırın
+> her sorunun cevabını console.log ile yazıdırın */
 
 
 ## Homework Description
@@ -38,4 +40,4 @@ let arr4 = [1, 1, 1, 4, 5, 5, 3, 2]```
 
 ## Author
 
-```Semanur CAN```
+```Semanur CAN ```
