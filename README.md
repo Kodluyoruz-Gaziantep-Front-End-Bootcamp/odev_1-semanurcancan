@@ -1,6 +1,16 @@
 # Week - NULL
 ```1.hafta -1.ödev```
 
+## Homework Description
+
+```Temel Javascrıpt Becerileri ```
+
+
+## Author
+
+```Semanur CAN ```
+
+
 # Homework 
 
 ```javascript
@@ -33,11 +43,3 @@ let arr4 = [1, 1, 1, 4, 5, 5, 3, 2]
 > her sorunun cevabını console.log ile yazıdırın */
 
 
-## Homework Description
-
-```Temel Javascrıpt Becerileri ```
-
-
-## Author
-
-```Semanur CAN ```
